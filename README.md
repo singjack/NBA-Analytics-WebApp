@@ -6,4 +6,4 @@ This project is to showcase my proficiency in utilizing a back-end framework (Fl
 
 # Landing Page:
 
-![Landing Page image](https://ibb.co/Tbt3pXg)
+![Landing Page image](https://i.ibb.co/rcHrTPw/Screenshot-2021-03-30-101523.png)
